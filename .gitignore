@@ -13,3 +13,6 @@
 
 # Exclude png output
 *.png
+
+*.trace
+*.pprof
